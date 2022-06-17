@@ -1,2 +1,2 @@
 # metlin-si-absensi
-lorem ipsun haha hihi
+lorem ipsum haha hihi
